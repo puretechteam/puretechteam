@@ -1,4 +1,4 @@
-<a href="https://puretechteam.github.io"><img src="assets/nothing-extra.svg" width="100%" alt="Pure Tech. A contribution graph with all 368 squares filled; the ones that are not needed fall away and the 161 left join up into the words NOTHING EXTRA. Independent software for Windows."></a>
+<a href="https://puretechteam.github.io"><img src="assets/nothing-extra.svg" width="100%" alt="Pure Tech. A contribution graph with all 368 squares filled; the ones that are not needed fall away and the 161 left shrink into a thin line that writes NOTHING EXTRA. Independent software for Windows."></a>
 
 <p>
 <a href="https://github.com/puretechteam/childlock"><img src="assets/childlock.svg" width="49%" alt="ChildLock. Lock your keyboard and mouse with one shortcut. 1,000,000 random key presses, 0 unlocks. 0.3.0 · 421 KB."></a>
