@@ -10,13 +10,13 @@
 <a href="https://x.com/puretechteam"><img src="assets/farther.svg" width="98.5%" alt="Farther. Chart an unknown world outward from a single campfire. Free, in the browser. Still being drawn. release ??."></a>
 </p>
 
-<p><sub><b>UPSTREAM</b> · <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Apuretechteam+-user%3Apuretechteam&amp;type=pullrequests">26 merged in 7 projects</a></sub></p>
+<p><sub><b>UPSTREAM</b> · <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3Apuretechteam+-user%3Apuretechteam&amp;type=pullrequests">36 merged in 9 projects</a></sub></p>
 
 <p>
 <a href="https://github.com/erkamyaman/rust-anything/pulls?q=is%3Apr+is%3Amerged+author%3Apuretechteam"><img src="assets/upstream-erkamyaman-rust-anything.svg" width="49%" alt="rust-anything, upstream project erkamyaman/rust-anything. Bug fixes for its CLI, HTTP harness and reports. 11 fixes and 3 docs changes in 3 days. 14 merged."></a>
+<a href="https://github.com/erkamyaman/unslop-anything/pulls?q=is%3Apr+is%3Amerged+author%3Apuretechteam"><img src="assets/upstream-erkamyaman-unslop-anything.svg" width="49%" alt="unslop-anything, upstream project erkamyaman/unslop-anything. Sharper detectors for gradients, buttons and menus. 6 fixes, fewer misses and fewer false alarms. 6 merged."></a>
 <a href="https://github.com/erkamyaman/rea-games/pulls?q=is%3Apr+is%3Amerged+author%3Apuretechteam"><img src="assets/upstream-erkamyaman-rea-games.svg" width="49%" alt="rea-games, upstream project erkamyaman/rea-games. Two playable games, Bricks and Paddles. Unit tests, and verify all no longer stops early. 5 merged."></a>
-<a href="https://github.com/mozilla/sccache/pulls?q=is%3Apr+is%3Amerged+author%3Apuretechteam"><img src="assets/upstream-mozilla-sccache.svg" width="49%" alt="sccache, upstream project mozilla/sccache. Caches clang builds that pass -fopenmp via -Xclang. Plus a docs list of the S3 permissions it needs. 2 merged."></a>
-<a href="https://github.com/tursodatabase/turso/pulls?q=is%3Apr+is%3Amerged+author%3Apuretechteam"><img src="assets/upstream-tursodatabase-turso.svg" width="49%" alt="turso, upstream project tursodatabase/turso. Refuses DEFAULT on generated columns, as SQLite does. Plus fixed README links in its serverless JS driver. 2 merged."></a>
+<a href="https://github.com/erkamyaman/safe-anything/pulls?q=is%3Apr+is%3Amerged+author%3Apuretechteam"><img src="assets/upstream-erkamyaman-safe-anything.svg" width="49%" alt="safe-anything, upstream project erkamyaman/safe-anything. Catches more: piped installs, API keys, weak TLS. Lockfiles over 2 MB now get their dependency check. 4 merged."></a>
 </p>
 
 [Website](https://puretechteam.github.io) · [X](https://x.com/puretechteam) · [Discord](https://discord.gg/dRMRGCG9Fk)
